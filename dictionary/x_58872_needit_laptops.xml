@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Laptops" max_length="40" name="x_58872_needit_laptops" type="collection">
+        <element default="Robroy" label="New field 2" max_length="16" name="new_field_2" type="string"/>
+        <element default="True" label="Working Laptop" max_length="40" name="working_laptop" type="boolean"/>
+    </element>
+</database>
